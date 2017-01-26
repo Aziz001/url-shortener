@@ -1,4 +1,5 @@
 # url-shortner
+A url-shortner developed by playframework (using java), that encodes the ID of a url (instead of the url itself) and gives back a tiny url.
 
 ### Testing the API
 
