@@ -1,0 +1,4 @@
+# Routes
+POST    /shorten                           controllers.APIController.shorten()
+GET     /*token                            controllers.APIController.getUrl(token)
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)

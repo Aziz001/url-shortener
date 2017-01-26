@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/aziz/Desktop/url-shortener/conf/application.conf,/home/aziz/Desktop/url-shortener/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/aziz/Desktop/url-shortener/conf/logback.xml,/home/aziz/Desktop/url-shortener/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/aziz/Desktop/url-shortener/conf/evolutions,/home/aziz/Desktop/url-shortener/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/home/aziz/Desktop/url-shortener/conf/routes,/home/aziz/Desktop/url-shortener/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/aziz/Desktop/url-shortener/conf/evolutions/default,/home/aziz/Desktop/url-shortener/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/home/aziz/Desktop/url-shortener/conf/evolutions/default/1.sql,/home/aziz/Desktop/url-shortener/target/scala-2.11/classes/evolutions/default/1.sql)[0m
